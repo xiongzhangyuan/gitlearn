@@ -1,1 +1,2 @@
 hello i want to delete.
+this is stash test.
